@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sąrašai</title>
+  </head>
+  <body>
+    <ol>
+      <li>Matematika</li>
+      <li>Kūno kultūra</li>
+      <li>Muzika</li>
+      <li>Anglų kalba</li>
+      <li>Lietuvių kalba</li>
+    </ol>
+
+    <ul>
+      <li>Matematika</li>
+      <li>Kūno kultūra</li>
+      <li>Muzika</li>
+      <li>Anglų kalba</li>
+      <li>Lietuvių kalba</li>
+    </ul>
+
+    <dl class="">
+      <dt>Informatika</dt>
+      <dd>tai mokslas apie informacija</dd>
+      <dt>Matematika</dt>
+      <dd>tai mokslas apie skaicius</dd>
+    </dl>
+
+    <ul>
+      <li>Pirmadienis</li>
+        <ol>
+          <li>Matematika</li>
+          <li>Lietuviu k.</li>
+          <li>Vokieciu k.</li>
+      </ol>
+    </ul>
+  </body>
+</html>
